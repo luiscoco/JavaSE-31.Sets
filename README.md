@@ -1,5 +1,7 @@
 # JavaSE-Sets
 
+See the Udemy course: https://www.udemy.com/course/curso-certificacion-profesional-desarrollador-java-se-11
+
 ![image](https://github.com/luiscoco/JavaSE-31.Sets/assets/32194879/a8bcd4e8-3fd3-4fd2-b396-b3708c4bb36a)
 
 In Java, a Set is a collection that does not allow duplicate elements. 
